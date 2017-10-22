@@ -27,6 +27,7 @@ console.log([[0,1],[2,3]].reduce(
 		return a.concat(b);b
 	}
 ))
+
 //计算每个数组中出现的次数
 // var arr =['a','b','c','a'] ;
 // console.log(arr.reduce(
